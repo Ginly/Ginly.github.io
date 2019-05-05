@@ -1,2 +1,0 @@
-# Ginly.github.io
-hello
